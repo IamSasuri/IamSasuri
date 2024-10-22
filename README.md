@@ -4,6 +4,7 @@ I'm passionate about computers and technology, especially web development. I hav
 Currently, I'm focused on becoming a Full Stack Web Developer, and I'm excited to explore both the frontend and backend aspects of web development. I have experience with:
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: Python, Django, Flask, Linux server management, with plans to learn more about Node.js, Express, and databases like MySQL and MongoDB
 I love learning new technologies and tackling challenging problems. My goal is to build dynamic, scalable, and efficient web applications.
 
